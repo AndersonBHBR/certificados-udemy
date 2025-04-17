@@ -37,6 +37,16 @@ header h1 {
     padding: 0 20px;
 }
 
+/* Acrescentando divisão por ano */
+.year-divider {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #6d28d2;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+
 .certificate {
     background-color: #fff;
     border: 1px solid #ddd;
